@@ -1,0 +1,29 @@
+.w-100 {
+    display: inline-block;
+    width: 100% !important;
+}
+
+.w-50 {
+    display: inline-block;
+    width: 50% !important;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+
+.wrapper {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+}
+
+.ant-upload {
+    width: 100%;
+}
